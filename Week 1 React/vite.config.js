@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/week1-react/",
+  base: "/Week-1-React/",
   plugins: [react() , tailwindcss(),],
 })
